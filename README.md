@@ -5,7 +5,7 @@
 ---
 
 ## 💡 Sobre mí
-Soy aprendiz del **SENA (ADSO)** y también estudio **Tecnología en Desarrollo de Sistemas Informáticos** (3er semestre).  
+Soy aprendiz del **SENA (ADSO)** y también estudio **Tecnología en Desarrollo de Sistemas Informáticos** (4to semestre).  
 Me caracterizo por la disciplina, aprendizaje rápido y enfoque en resultados.
 
 🎯 **Objetivo actual:** conseguir una empresa patrocinadora para aportar y crecer como desarrollador.
